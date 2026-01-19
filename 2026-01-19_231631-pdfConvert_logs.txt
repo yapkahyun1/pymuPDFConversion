@@ -1,0 +1,26 @@
+[INFO] 2026-01-19 23:16:31 - Current path for the file conversion: C:\Users\Yap\Desktop\PDFConversion\Please read this Product Disclosure Sheet before you decide to take up PRUlink One.pdf
+[INFO] 2026-01-19 23:16:31 - Current path for the output after conversion: C:\Users\Yap\Desktop\PDFConversion\Output\Converted.txt
+[DEBUG] 2026-01-19 23:16:31 - Proceed to open the pdf file.....
+[DEBUG] 2026-01-19 23:16:31 - PDF File opened....
+[DEBUG] 2026-01-19 23:16:31 - New Text File created......
+[DEBUG] 2026-01-19 23:16:31 - Text file is opened to write content
+[DEBUG] 2026-01-19 23:16:32 - Begin the PDF Extraction
+[DEBUG] 2026-01-19 23:16:32 - Total page counted: 8
+[DEBUG] 2026-01-19 23:16:32 - Extracting Page Number 1
+[DEBUG] 2026-01-19 23:16:32 - Content for Page Number 1 is written
+[DEBUG] 2026-01-19 23:16:32 - Extracting Page Number 2
+[DEBUG] 2026-01-19 23:16:32 - Content for Page Number 2 is written
+[DEBUG] 2026-01-19 23:16:32 - Extracting Page Number 3
+[DEBUG] 2026-01-19 23:16:32 - Content for Page Number 3 is written
+[DEBUG] 2026-01-19 23:16:32 - Extracting Page Number 4
+[DEBUG] 2026-01-19 23:16:32 - Content for Page Number 4 is written
+[DEBUG] 2026-01-19 23:16:32 - Extracting Page Number 5
+[DEBUG] 2026-01-19 23:16:32 - Content for Page Number 5 is written
+[DEBUG] 2026-01-19 23:16:32 - Extracting Page Number 6
+[DEBUG] 2026-01-19 23:16:32 - Content for Page Number 6 is written
+[DEBUG] 2026-01-19 23:16:32 - Extracting Page Number 7
+[DEBUG] 2026-01-19 23:16:32 - Content for Page Number 7 is written
+[DEBUG] 2026-01-19 23:16:32 - Extracting Page Number 8
+[DEBUG] 2026-01-19 23:16:32 - Content for Page Number 8 is written
+[DEBUG] 2026-01-19 23:16:32 - File closed successfully
+[DEBUG] 2026-01-19 23:16:32 - PDF has been converted to text sucessfully!
