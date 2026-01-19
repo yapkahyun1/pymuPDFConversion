@@ -1,0 +1,2 @@
+[INFO] 2026-01-19 19:08:09 - Current path for the file conversion: C:\Users\HP\OneDrive\Desktop\PAMB\PolicyContract.pdf
+[INFO] 2026-01-19 19:08:09 - Current path for the output after conversion: C:\Users\HP\OneDrive\Desktop\PAMB\OutputFolder\NewOutput.txt

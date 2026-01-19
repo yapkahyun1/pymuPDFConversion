@@ -1,0 +1,1 @@
+[ERROR] 2026-01-19 19:07:54 - Invalid File Path for Input and output, please ensure the path is correct followed by the file extension .txt or .pdf

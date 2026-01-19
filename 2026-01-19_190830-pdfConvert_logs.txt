@@ -1,0 +1,208 @@
+[INFO] 2026-01-19 19:08:30 - Current path for the file conversion: C:\Users\HP\OneDrive\Desktop\PAMB\PolicyContract.pdf
+[INFO] 2026-01-19 19:08:30 - Current path for the output after conversion: C:\Users\HP\OneDrive\Desktop\PAMB\OutputFolder\NewOutput.txt
+[DEBUG] 2026-01-19 19:08:30 - Proceed to open the pdf file.....
+[DEBUG] 2026-01-19 19:08:30 - PDF File opened....
+[DEBUG] 2026-01-19 19:08:30 - New Text File created......
+[DEBUG] 2026-01-19 19:08:30 - Text file is opened to write content
+[DEBUG] 2026-01-19 19:08:30 - Begin the PDF Extraction
+[DEBUG] 2026-01-19 19:08:30 - Total page counted: 100
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 1
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 1 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 2
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 2 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 3
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 3 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 4
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 4 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 5
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 5 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 6
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 6 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 7
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 7 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 8
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 8 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 9
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 9 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 10
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 10 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 11
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 11 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 12
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 12 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 13
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 13 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 14
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 14 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 15
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 15 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 16
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 16 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 17
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 17 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 18
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 18 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 19
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 19 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 20
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 20 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 21
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 21 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 22
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 22 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 23
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 23 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 24
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 24 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 25
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 25 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 26
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 26 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 27
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 27 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 28
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 28 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 29
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 29 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 30
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 30 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 31
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 31 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 32
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 32 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 33
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 33 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 34
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 34 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 35
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 35 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 36
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 36 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 37
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 37 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 38
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 38 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 39
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 39 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 40
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 40 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 41
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 41 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 42
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 42 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 43
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 43 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 44
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 44 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 45
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 45 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 46
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 46 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 47
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 47 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 48
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 48 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 49
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 49 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 50
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 50 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 51
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 51 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 52
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 52 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 53
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 53 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 54
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 54 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 55
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 55 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 56
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 56 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 57
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 57 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 58
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 58 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 59
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 59 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 60
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 60 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 61
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 61 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 62
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 62 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 63
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 63 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 64
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 64 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 65
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 65 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 66
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 66 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 67
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 67 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 68
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 68 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 69
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 69 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 70
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 70 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 71
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 71 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 72
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 72 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 73
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 73 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 74
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 74 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 75
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 75 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 76
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 76 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 77
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 77 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 78
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 78 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 79
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 79 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 80
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 80 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 81
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 81 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 82
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 82 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 83
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 83 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 84
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 84 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 85
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 85 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 86
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 86 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 87
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 87 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 88
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 88 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 89
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 89 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 90
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 90 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 91
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 91 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 92
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 92 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 93
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 93 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 94
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 94 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 95
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 95 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 96
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 96 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 97
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 97 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 98
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 98 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 99
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 99 is written
+[DEBUG] 2026-01-19 19:08:30 - Extracting Page Number 100
+[DEBUG] 2026-01-19 19:08:30 - Content for Page Number 100 is written
