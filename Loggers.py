@@ -11,18 +11,18 @@ dateNow = datetime.datetime.now()
 
 
 def start_loggers():
-    script_dir = os.path.dirname(os.path.abspath(sys.argv[0]))
-    logs_folder = os.path.join(script_dir + "Conversion_Logs")
+    script_dir = os.path.abspath(".")
+    logs_folder = os.path.join(script_dir, "Conversion_Logs")
     if not os.path.exists(logs_folder):
-        logging.debug("Conversion Logs folder doesnt exists................Proceed to create one now")
+        #logging.debug("Conversion Logs folder doesnt exists................Proceed to create one now")
         os.makedirs(logs_folder)
-        logging.debug("Conversion Logs folder created, will begun storing the logs in this folder")
-    else:
-        logging.debug("Conversion Logs folder exists, will begun storing the logs in this folde")
+        #logging.debug("Conversion Logs folder created, will begun storing the logs in this folder")
+        #logging.debug("Logs Path: " + logs_folder)
 
-    log_filename = f"{dateNow.strftime('%Y-%m-%d_%H%M%S')}_pdfConvert_logs.txt"
+
+    log_filename = os.path.join(logs_folder, f"{dateNow.strftime('%Y-%m-%d_%H%M%S')}_pdfConvert_logs.txt")
     logging.basicConfig(filename=log_filename, level=logging.DEBUG, format="[%(levelname)s] %(message)s")
-    #logging.basicConfig(level=logging.DEBUG, format="[%(levelname)s] %(message)s")
+
 
 
 
